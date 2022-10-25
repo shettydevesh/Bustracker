@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "456141634644",
+    "project_id": "bustrack-523ee",
+    "storage_bucket": "bustrack-523ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456141634644:android:ee7f02023ed9f0d5c0c1c1",
+        "android_client_info": {
+          "package_name": "com.sem5.bustracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456141634644-73s7nbbpqk2dehf2v1dbrm7db2gigs67.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sem5.bustracker",
+            "certificate_hash": "b4699cc14736b45534699124650727cb5c0af968"
+          }
+        },
+        {
+          "client_id": "456141634644-pogt7g2fuidmcp2bogr6h4fgvu7eafeq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIKtpqEwlMu6aVAlL1hg_RNWCTVZd3iQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456141634644-pogt7g2fuidmcp2bogr6h4fgvu7eafeq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
